@@ -9,14 +9,18 @@ div#navagationBar li a:hover {color: #0ce425;}
 
 
 
-/* Allows side by side columns with proper formatting*/
-* {box-sizing: border-box;} 
-.columnLeft {float: left; width: 40%; padding: 10px; height: 680px;}
-.columnRight {float: left; width: 50%; padding: 10px; height: 400px;}
-.leftSpacing {float: left; width: 5%; padding: 10px; height: 680px;}
-.topSpacing {float: left; width: 50%; padding: 10px; height: 140px;}
-.row:after {content: ""; display: table; clear: both;} /*Keeps the space under clear */
 
+
+/* Alternating color boxes*/
+
+	/* Ligher box */
+	.lightBox{background-color: #FFFFFF; font-family: helvetica;}
+	.lightBox h3 {color: #500000; text-align: center; font-size: 150%;}
+	.lightBox p {padding-left: 35%; padding-right: 35%; text-indent: 20px;}
+
+	/* Darker Box */
+	.darkBox{background-color: #EAEAEA; font-family: helvetica;}
+	.darkBox h3 {color: #500000; text-align: center; font-size: 150%;}
 
 
 
