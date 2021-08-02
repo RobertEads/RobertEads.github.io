@@ -16,11 +16,12 @@ div#navagationBar li a:hover {color: #0ce425;}
 	/* Ligher box */
 	.lightBox{background-color: #FFFFFF; font-family: helvetica;}
 	.lightBox h3 {color: #500000; text-align: center; font-size: 150%;}
-	.lightBox p {padding-left: 35%; padding-right: 35%; text-indent: 20px;}
+	.lightBox p {padding-left: 27%; padding-right: 35%; text-indent: 20px; margin-right: 8%;}
 
 	/* Darker Box */
 	.darkBox{background-color: #EAEAEA; font-family: helvetica;}
 	.darkBox h3 {color: #500000; text-align: center; font-size: 150%;}
+	
 
 
 
