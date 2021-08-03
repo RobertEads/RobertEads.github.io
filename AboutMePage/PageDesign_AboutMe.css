@@ -14,15 +14,51 @@ div#navagationBar li a:hover {color: #0ce425;}
 /* Alternating color boxes*/
 
 	/* Ligher box */
-	.lightBox{background-color: #FFFFFF; font-family: helvetica;}
-	.lightBox h3 {color: #500000; text-align: center; font-size: 150%;}
-	.lightBox p {padding-left: 27%; padding-right: 35%; text-indent: 20px; margin-right: 8%;}
+	.lightBox {
+		background-color: #FFFFFF; 
+		font-family: helvetica;
+	}
+	.lightBox h3 {
+		color: #500000; 
+		text-align: center; 
+		font-size: 150%;
+		margin: 10px;
+		margin-top: 25px;
+	}
 
 	/* Darker Box */
-	.darkBox{background-color: #EAEAEA; font-family: helvetica;}
-	.darkBox h3 {color: #500000; text-align: center; font-size: 150%;}
+	.darkBox {
+		background-color: #EAEAEA; 
+		font-family: helvetica;
+	}
+	.darkBox h3 {
+		color: #500000; 
+		text-align: center; 
+		font-size: 150%;
+	}
 	
+	
+/* Special Case ID's */
 
+	/*div#aboutMe p {padding-left: 27%; padding-right: 35%; text-indent: 20px; margin-right: 8%;}
+	div#skills li:hover {background-color: #DDDDDD; text-align: left; width: 20%; margin-left: 40%; padding-left: 1%; font-size: 110%;}*/
+	
+	
+	
+.dot {
+	height: 10px;
+    width: 10px;
+    position: relative;
+    top: 6px;
+    float: right;
+    margin-left: 5px;
+    vertical-align: middle;
+    background-color: red;
+    border-radius: 25%;
+    display: inline-block;
+}
 
-
+.skill {
+	list-style-type: none;
+}
 
