@@ -11,14 +11,14 @@ div#navagationBar li a:hover {color: #0ce425;}
 
 
 
-/* Alternating color boxes*/
+/* Sections */
 
-	/* Ligher box */
-	.lightBox {
+	/* About Me */
+	.aboutMe {
 		background-color: #FFFFFF; 
 		font-family: helvetica;
 	}
-	.lightBox h3 {
+	.aboutMe h3 {
 		color: #500000; 
 		text-align: center; 
 		font-size: 150%;
@@ -40,7 +40,7 @@ div#navagationBar li a:hover {color: #0ce425;}
 	
 /* Special Case ID's */
 
-	/*div#aboutMe p {padding-left: 27%; padding-right: 35%; text-indent: 20px; margin-right: 8%;}
+	/*
 	div#skills li:hover {background-color: #DDDDDD; text-align: left; width: 20%; margin-left: 40%; padding-left: 1%; font-size: 110%;}*/
 	
 	
