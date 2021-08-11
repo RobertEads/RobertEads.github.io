@@ -27,20 +27,11 @@ html, body {margin:0; padding:0;}
 	margin: 0;
 }
 
-.paragraphText {
-	max-width: 500px;
-	margin: 0 auto; 
-	text-align: left; 
-	display: inline-block; 
-	padding: 30px;
-	text-indent: 2em;
-}
-
 .profilePicture {
 	vertical-align: top; 
 	display: inline-block; 
-	width: 250px;
-	height: 250px;
+	width: 225px;
+	height: 225px;
 }
 
 
