@@ -34,7 +34,7 @@ html, body {margin:0; padding:0;}
 }
 
 .paragraphs {
-	text-indent: 2em;
+	text-indent: 1.5em;
 	margin: 0 auto;
 	display:inline-block;
 }
@@ -50,12 +50,12 @@ html, body {margin:0; padding:0;}
 	display: inline-block;
 	text-align: left;
 	vertical-align: top;
+	width: 250px;
 }
 
 .projectDescription {
 	display: inline-block;
 	text-align: left;
-	
 }
 
 .links {
