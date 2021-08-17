@@ -11,7 +11,7 @@ html, body {margin:0; padding:0;}
 }
 
 .darkBox {
-	background-color: #EAEAEA; 
+	background-color: #eaeaea; 
 	position: relative;
 	width: 100%;
 	padding: 0;
@@ -64,19 +64,6 @@ html, body {margin:0; padding:0;}
 	color: #500000;
 }
 
-
-
-
-	
-	
-	
-/* Special Case ID's */
-
-	/*
-	div#skills li:hover {background-color: #DDDDDD; text-align: left; width: 20%; margin-left: 40%; padding-left: 1%; font-size: 110%;}*/
-	
-	
-	
 .dot {
 	height: 10px;
     width: 10px;
@@ -85,12 +72,15 @@ html, body {margin:0; padding:0;}
     float: right;
     margin-left: 5px;
     vertical-align: middle;
-    background-color: red;
+    background-color: #500000;
     border-radius: 25%;
     display: inline-block;
 }
 
 .skill {
-	list-style-type: none;
+	width: 300px;
+	height: 20px;
+	padding: 5px;
 }
-
+	
+	
