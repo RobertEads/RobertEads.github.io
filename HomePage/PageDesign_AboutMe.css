@@ -82,5 +82,28 @@ html, body {margin:0; padding:0;}
 	height: 20px;
 	padding: 5px;
 }
-	
+
+.footerMenu {
+	position: absolute;
+	margin-top: 15px;
+}
+
+.footerMenu ul {
+	list-style-type: none;
+}
+
+.footerMenu ul li {
+	margin-top: 7.5px;
+	margin-bottom: 7.5px;
+}
+
+.footerMenu ul li a {
+	text-decoration: none;
+	color: black;
+}
+
+.footerMenu ul li a:hover {
+	color: #500000;
+	font-weight: bold;
+}
 	
