@@ -1,5 +1,6 @@
 /* Allows Elements to touch the edge of the page */
-html, body {margin:0; padding:0;}
+html, body {margin: 0; padding: 0; scroll-behavior: smooth;}
+
 
 /* Structual Elements */
 .homePage {
@@ -128,4 +129,12 @@ html, body {margin:0; padding:0;}
 }
 .headerResume:hover {
 	color: black;
+}
+
+.arrow {
+	opacity: 0.8;
+}
+
+.arrow:hover {
+	opacity: 1.0;
 }
