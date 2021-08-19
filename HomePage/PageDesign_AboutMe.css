@@ -107,3 +107,25 @@ html, body {margin:0; padding:0;}
 	font-weight: bold;
 }
 	
+.headerBackground{
+	background: url("images/Zachry Engineering Education Complex.jpg");
+	top: 0; 
+	left: 0; 
+	background-size: cover; 
+	z-index: -1; 
+	position: fixed; 
+	width: 100vw; 
+	height: 100vh;
+	object-fit: cover;
+}	
+
+.headerResume {
+	text-decoration: none;
+	color: #500000;
+	border: solid black 4px;
+	padding: 5px 15px;
+	border-radius: 7.5%;
+}
+.headerResume:hover {
+	color: black;
+}
