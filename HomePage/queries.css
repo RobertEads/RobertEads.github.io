@@ -1,0 +1,40 @@
+@media screen and (max-width: 765px) {
+	.project .projectTitle {
+		text-align: center;
+	}	
+}
+
+@media screen and (max-width: 1055px) {
+	.siteTitle h1 {
+		font-size: 3.5em;
+	}
+	
+	.siteTitle p {
+		font-size: 1em;
+	}
+	
+	.arrow {
+		font-size: 5em;
+		top: 90%;
+	}
+	
+	.skill {
+		width: 260px;
+	}
+
+	.footerMenu {
+		display: none;
+	}
+	
+	.footerTitle {
+		top: 35%;
+	}
+
+	.footerLinks {
+		position: relative;
+		left: 50%;
+		top: 10%;
+		transform: translateX(-50%);
+	}
+
+}
