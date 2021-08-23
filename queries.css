@@ -30,11 +30,23 @@
 		top: 35%;
 	}
 
+	.footerTitle h1 {
+		font-size: 200%;
+	}
+
 	.footerLinks {
 		position: relative;
 		left: 50%;
 		top: 10%;
 		transform: translateX(-50%);
 	}
+}
 
+@media screen and (max-width: 343px) {
+	.footerLinks {
+		position: relative;
+		left: 50%;
+		top: 5%;
+		transform: translateX(-50%);
+	}
 }

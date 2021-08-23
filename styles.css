@@ -185,6 +185,11 @@ html, body {
 			width: fit-content;
 		}
 		
+		.footerTitle h1 {
+			margin: 5px; 
+			font-size: 250%;
+		}
+		
 		.footerLinks {
 			position: absolute; 
 			width: fit-content; 
