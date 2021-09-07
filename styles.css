@@ -39,7 +39,8 @@ html, body {
 			text-align: center; 
 			width: fit-content; 
 			padding: 40px; 
-			font-weight: bold;"
+			font-weight: bold;
+			color: white;
 		}
 
 		.siteTitle h1 {
@@ -61,7 +62,7 @@ html, body {
 		.arrow a {
 			opacity: 0.8;
 			text-decoration: none; 
-			color: black;
+			color: white;
 		}
 
 		.arrow a:hover {
@@ -82,13 +83,13 @@ html, body {
 
 		.headerResume {
 			text-decoration: none;
-			color: #500000;
-			border: solid black 4px;
+			color: white;
+			border: solid white 4px;
 			padding: 5px 15px;
 			border-radius: 7.5%;
 		}
 		.headerResume:hover {
-			color: black;
+			color: #500000;
 		}
 
 	/* Site Body */
