@@ -53,11 +53,15 @@
 	
 }
 
-@media screen and (max-width: 343px) {
+@media screen and (max-width: 395px) {
 	.footerLinks {
 		position: relative;
 		left: 50%;
-		top: 5%;
+		top: 17.5%;
 		transform: translateX(-50%);
+	}
+	
+	.projectDescription {
+		width: 250px;
 	}
 }
