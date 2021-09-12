@@ -112,13 +112,30 @@ html, body {
 			width: 225px;
 			height: 225px;
 		}
-
+		
+		.coursework {
+			display:inline-block; 
+			vertical-align:top; 
+			padding:10px; 
+			margin-top:5px; 
+			margin-bottom:25px;"
+		}
+		
+		.coursework ul {
+			list-style-type:none; 
+			text-align:left;"
+		}
+		
 		.projectTitle {
 			display: inline-block;
 			text-align: left;
 			vertical-align: top;
 			width: 205px;
 			padding-bottom: 10px;
+		}
+		
+		.projectTitle h3, p{
+			margin: 2px;
 		}
 
 		.projectDescription {

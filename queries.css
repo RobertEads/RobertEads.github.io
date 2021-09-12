@@ -42,6 +42,17 @@
 	}
 }
 
+@media screen and (max-width: 580px) {
+	.projectDescription {
+		max-width: 350px;
+	}
+	
+	.coursework ul {
+		padding-left: 2px;
+	}
+	
+}
+
 @media screen and (max-width: 343px) {
 	.footerLinks {
 		position: relative;
