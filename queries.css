@@ -51,6 +51,10 @@
 		padding-left: 2px;
 	}
 	
+	.arrow {
+			top: 85%; 
+		}
+	
 }
 
 @media screen and (max-width: 395px) {
