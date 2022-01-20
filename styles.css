@@ -106,7 +106,8 @@ html, body {
 
 		.paragraphs {
 			margin: 0;
-			display:inline-block;
+			display: inline-block;
+			text-align: justify;
 		}
 
 		.profilePicture {
